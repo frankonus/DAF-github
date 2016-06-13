@@ -8,9 +8,10 @@
     <meta name="author" content="Frank van Deursen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>document</title>
+    <title>DAF Road Experience</title>
     <link rel="stylesheet" type="text/css" href="/css/reset.css">
     <link rel="stylesheet" type="text/css" href="/css/style.css">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script src="https://use.typekit.net/qrt6rbc.js"></script>
@@ -19,7 +20,7 @@
     <script src="/js/route.js"></script>
 </head>
 
-<body id="googleBody">
+<body>
     <nav id="fullPageMenu">
         <nav class="menu">
             <menu id="hamburgerClose"></menu>

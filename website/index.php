@@ -15,7 +15,7 @@
         <section id="welcome">
             <img src="/images/logo.png" id="logo" alt="DAF Truck event naam">
             <a href="introduction.php" id="videoBtn">Bekijk video</a>
-            <a href="#" id="informationBtn">Meer informatie</a>
+            <a href="information.php" id="informationBtn">Meer informatie</a>
         </section>
     </section>
     <script src="/js/script.js"></script>

@@ -1,15 +1,6 @@
 <?php include('includes/header.php'); ?>
     <section id="intro" class="infoIntro">
         <nav class="menu">
-            <select id="languageSelect">
-                <option value="" disabled selected>Select language</option>
-                <option value="english">English</option>
-                <option value="español">Español</option>
-                <option value="français">Français</option>
-                <option value="italiano">Italiano</option>
-                <option value="deutsch">Deutsch</option>
-                <option value="nederlands">NEDERLANDS</option>
-            </select>
             <menu id="hamburger"></menu>
         </nav>
         <section id="information">
